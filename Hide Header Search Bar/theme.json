@@ -1,0 +1,20 @@
+{
+  "name": "no_search_bar",
+  "display_name": "Hide Header Search Bar",
+  "description": "Hides the frankly annoying and useless search bar in the header.",
+  "version": "v1.0",
+  "target": [
+    "Home",
+    "Tweak"
+  ],
+  "author": "Megalon",
+  "manifest_version": 9,
+  "flags": [
+    "REQUIRE_NAV_PATCH"
+  ],
+  "inject": {
+    "shared.css": [
+      "bigpicture"
+    ]
+  }
+}
