@@ -1,0 +1,10 @@
+{
+  "name": "Undella Town BGM",
+  "description": "A (probably) perfect loop of the Undella Town music from Pokemon BW",
+  "author": "MegalonVII",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
